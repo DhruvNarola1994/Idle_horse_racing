@@ -1,0 +1,37 @@
+{
+  "client": [
+    {
+      "services": {
+        "appinvite_service": {
+          "status": 1
+        }, 
+        "analytics_service": {
+          "status": 0
+        }
+      }, 
+      "oauth_client": [
+        {
+          "client_id": "906059363742-q5hje45mgmr58r4bpus0v5mc3rvm4vi6.apps.googleusercontent.com"
+        }
+      ], 
+      "api_key": [
+        {
+          "current_key": "AIzaSyA8ClAcPijIe1ed1Tqxj6fcFC0BGu9cOMk"
+        }
+      ], 
+      "client_info": {
+        "mobilesdk_app_id": "1:906059363742:ios:363333cbd69dcf1e40928f", 
+        "android_client_info": {
+          "package_name": "idle.life.tycoon.horse.racing.simulator"
+        }
+      }
+    }
+  ], 
+  "configuration_version": "1", 
+  "project_info": {
+    "storage_bucket": "idle-horse.appspot.com", 
+    "project_id": "idle-horse", 
+    "firebase_url": "https://idle-horse.firebaseio.com", 
+    "project_number": "906059363742"
+  }
+}
